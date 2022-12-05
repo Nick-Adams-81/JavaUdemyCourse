@@ -24,7 +24,5 @@ public class AppleStore {
         profit += applePrice * 200;
         System.out.println("You have " + numberOfApples + " left and made " + profit + " " + customers);
 
-
-
     }
 }
